@@ -1,0 +1,22 @@
+.cardimg {
+    margin-top: 1rem !important;
+    border-radius: 25px;
+}
+
+.column-value {
+    display: flex;
+    justify-content: center;
+}
+
+.primary-row {
+    margin-top: 1rem !important;
+}
+
+.card-first {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+
+.column-text {
+    margin-bottom: 1rem;
+}
